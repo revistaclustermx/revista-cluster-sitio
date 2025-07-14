@@ -1,0 +1,27 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+revistaclustermx.wixsite.com	TRUE	/	FALSE	1999999999	XSRF-TOKEN	1752165702|q0SKV3zoznTJ
+revistaclustermx.wixsite.com	TRUE	/	FALSE	1999999999	SameSite	None
+.spotify.com	TRUE	/	FALSE	1999999999	sp_landing	https%3A%2F%2Fopen.spotify.com%2Fuser%2F0wbfollkeqfc3zajv2t3r6qi7%3Fsp_cid%3Dc9040e692c72a05df71187264f9d333c%26device%3Ddesktop%26si%3DXfJwbQUyRW-YIt2-smf6RQ
+.youtube.com	TRUE	/	FALSE	1999999999	SOCS	CAAaBgiAhbzDBg
+.youtube.com	TRUE	/	FALSE	1999999999	YSC	e6yRDvlnkQs
+.facebook.com	TRUE	/	FALSE	1999999999	sb	hO1vaKOyypOCkJFUEifiIIBi
+es.wix.com	TRUE	/	FALSE	1999999999	ssr-caching	cache#desc=hit#varnish=hit_miss#dc#desc=fastly_ireland-pub_g
+.wix.com	TRUE	/	FALSE	1999999999	_wixCIDX	906d84fc-be98-4f4e-a50e-855d86135d70
+.wix.com	TRUE	/	FALSE	1999999999	_wixUIDX	null-user-id
+.es.wix.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+es.wix.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+.wix.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+.es.wix.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+www.facebook.com	TRUE	/	FALSE	1999999999	SameSite	deleted
+.facebook.com	TRUE	/	FALSE	1999999999	datr	qPdvaETeJz88nKoG9RJVbGdE
+m.facebook.com	TRUE	/	FALSE	1999999999	SameSite	None
+.youtube.com	TRUE	/	FALSE	1999999999	__Secure-YEC	CgtjaXR1M0J6dE1Cdyj277_DBjInCgJGSRIhEh0SGwsMDg8QERITFBUWFxgZGhscHR4fICEiIyQlJiBp
+www.youtube.com	TRUE	/	FALSE	1999999999	SameSite	lax
+.youtube.com	TRUE	/	FALSE	1999999999	VISITOR_PRIVACY_METADATA	CgJGSRIhEh0SGwsMDg8QERITFBUWFxgZGhscHR4fICEiIyQlJiBp
+www.youtube.com	TRUE	/	FALSE	1999999999	SameSite	none
+.youtube.com	TRUE	/	FALSE	1999999999	SameSite	none
+revistaclustermx.wixsite.com	TRUE	/	FALSE	1999999999	ssr-caching	cache#desc=hit#varnish=hit#dc#desc=ireland-pub_g
+.spotify.com	TRUE	/	FALSE	1999999999	sp_t	c9040e692c72a05df71187264f9d333c
+open.spotify.com	TRUE	/	FALSE	1999999999	samesite	none
+
